@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683107499132",
+    "project_id": "yearbook-98044",
+    "storage_bucket": "yearbook-98044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683107499132:android:3ea0345ad27f3b40e99df9",
+        "android_client_info": {
+          "package_name": "app.yearbook.yearbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683107499132-49oid5ql7t5uq201tlo51vbbh8uql5tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzRN1cmLTvEIJLH940oM_menVHJHhVfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683107499132-49oid5ql7t5uq201tlo51vbbh8uql5tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
